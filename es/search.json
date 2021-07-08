@@ -1,0 +1,9 @@
+{ "items": [{
+            "title": "Otro artículo de prueba",
+            "url": "https://example.com/es/prueba/otro-articulo-de-prueba/",
+            "date": "16 de Octubre 2019"
+        },{
+            "title": "Página",
+            "url": "https://example.com/es/prueba/articulo-de-prueba/",
+            "date": "16 de Octubre 2019"
+        }]}
